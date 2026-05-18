@@ -51,6 +51,7 @@
 | Vi Editor | notes/vi.md |
 | Compile & Link | notes/compile-link.md |
 | Makefile | notes/makefile.md |
+| LS Command | notes/ls-command.md |
 | File I/O | notes/file-io.md |
 | Standard I/O | notes/standard-io.md |
 | Directory | notes/directory.md |
@@ -81,6 +82,7 @@ linux-system-programming
 │   ├── vi.md
 │   ├── compile-link.md
 │   ├── makefile.md
+│   ├── ls-command.md
 │   ├── file-io.md
 │   ├── standard-io.md
 │   ├── directory.md
