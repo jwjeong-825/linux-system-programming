@@ -76,7 +76,26 @@
 ```txt
 linux-system-programming
 ├── notes
+│   ├── shell.md
+│   ├── vi.md
+│   ├── makefile.md
+│   ├── file-io.md
+│   ├── standard-io.md
+│   ├── directory.md
+│   ├── process.md
+│   ├── signal.md
+│   ├── ipc.md
+│   ├── thread.md
+│   ├── daemon.md
+│   └── system-data-files.md
+│
 ├── practice
+│   ├── shell-command
+│   ├── process-practice
+│   ├── signal-practice
+│   ├── ipc-practice
+│   └── thread-practice
+│
 ├── images
 └── README.md
 ```
