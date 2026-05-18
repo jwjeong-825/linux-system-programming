@@ -68,3 +68,15 @@
 - 운영체제 핵심 개념 학습
 - Linux 개발 환경 적응
 - Backend / DevOps 기초 역량 강화
+
+---
+
+## Repository Structure
+
+```txt
+linux-system-programming
+├── notes
+├── practice
+├── images
+└── README.md
+```

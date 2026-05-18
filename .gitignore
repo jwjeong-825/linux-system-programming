@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Linux
+*.swp
+*.tmp
+
+# VSCode
+.vscode/
+
+# Virtual Environment
+venv/
+
+# Build Files
+*.o
+a.out
