@@ -49,6 +49,7 @@
 |---|---|
 | Shell | notes/shell.md |
 | Vi Editor | notes/vi.md |
+| Compile & Link | notes/compile-link.md |
 | Makefile | notes/makefile.md |
 | File I/O | notes/file-io.md |
 | Standard I/O | notes/standard-io.md |
@@ -78,6 +79,7 @@ linux-system-programming
 ├── notes
 │   ├── shell.md
 │   ├── vi.md
+│   ├── compile-link.md
 │   ├── makefile.md
 │   ├── file-io.md
 │   ├── standard-io.md
